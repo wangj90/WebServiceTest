@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/wangj90/WebServiceTest.svg?branch=master)](https://travis-ci.org/wangj90/WebServiceTest)
+[![Build Status](https://travis-ci.org/wangj90/WebServiceTest.svg?branch=master)](https://travis-ci.org/wangj90/WebServiceTest)[![Test Coverage](https://coveralls.io/repos/wangj90/WebServiceTest/badge.svg?branch=master)](https://coveralls.io/r/wangj90/WebServiceTest)
