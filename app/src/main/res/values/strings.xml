@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebService测试</string>
+    <string name="buttonText">显示WebService内容</string>
+</resources>
